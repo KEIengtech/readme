@@ -32,5 +32,19 @@ PS C:\Users\KEI> nvm list available
 |    24.2.0    |   22.13.0    |   0.10.48    |    0.9.10    |
 
 This is a partial list. For a complete list, visit https://nodejs.org/en/download/releases
+PS C:\Users\KEI> nvm install 24.14.0
+Downloading node.js version 24.14.0 (64-bit)...
+Extracting node and npm...
+Complete
+npm v11.9.0 installed successfully.
+
+
+Installation complete. If you want to use this version, type
+
+nvm use 24.14.0
+PS C:\Users\KEI> nvm list
+
+    24.14.0
+  * 24.13.0 (Currently using 64-bit executable)
 PS C:\Users\KEI>
 ~~~
